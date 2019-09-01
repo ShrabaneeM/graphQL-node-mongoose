@@ -1,0 +1,26 @@
+{
+  "name": "graphQl-node-mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrabaneemshr76/graphQl-node-mongoose.git"
+  },
+  "keywords": [],
+  "author": "“Shrabanee <shrabaneemshr76@gmail.com> (https://github.com/ShrabaneeM)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrabaneemshr76/graphQl-node-mongoose/issues"
+  },
+  "homepage": "https://github.com/shrabaneemshr76/graphQl-node-mongoose#readme",
+  "dependencies": {
+    "apollo-server-express": "^2.9.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.11"
+  }
+}
